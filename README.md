@@ -1,43 +1,25 @@
-Hi, here's Vadim Reshetnikov
-- Father
-- Fullstack JS Developer
-- Musician
+Vadim Reshetnikov
 
-My main interest is to solve people pains in process systems by:
-- Automation
-- Optimization
-- Design and integrate systems and processes
+Senior JavaScript / Node.js engineer.
+I work on high-load production systems and complex process-driven products.
 
-I experienced in:
-- Websites on React/Express/Mongo
-- React-Native apps
-- Node.js backend
-- Cloud platforms (mostly Google Cloud)
-- Run MVP projects
-- Maintain and support highload projects
-- Project and team management
-- Write small scripts/apps to solve friend's problem on work =)
+Currently:
+- Bright Data — Senior Developer / Team Lead (since 2020)
+- Building Grafema (formerly Navi / ReginaFlow): tools for navigating and structuring complex systems
+https://grafema.dev
 
-Some of projects I have participated:
-- https://www.trusty.care/ - Junior Fullstack Dev (2018)
-- https://www.wedyapp.com/ - Mobile App MVP Team Lead (2019)
-- https://brightdata.com/ - Developer and Team Leader (working now) (since 2020)
-- https://lookap.ru/ - CTO and co-founder (since 2020)
+Background includes:
+- High-load backends, large data volumes, long-running services
+- MVP → production → maintenance
+- Web (React / Express / MongoDB), React Native
+- Cloud platforms (GCP, AWS, YCloud)
+  
+Most of my work is commercial or internal.
+This GitHub contains pet projects, experiments, and tooling.
 
-Of course, some of the project wasn't ever released or already died, but it was really fun experience in:
-- Build a mobile app for sellers in cannabis shops
-- Run a platform for sentiment analysis in a corporate Slack/another messenger
-- Write a tool for JS static analysis (WIP as pet-project)
-
-I don't really do something for open-source just because I prefer to spend my efforts on job or commercial projects.
-So I'm not sure what useful you can find here. 
-
-But I'll try at least show here my small pet-projects and tools.
-
-Contacts:
-- RescuerDiver@yandex.ru
-- Telegram: @disentinel
-- Instagram: @disentinel
-- vk.com/disentinel
-
+Contacts
+Email: vadimrimych@gmail.com
+Telegram: @disentinel
+Instagram: @disentinel
+LinkedIn: https://linkedin.com/in/disentinel
 
